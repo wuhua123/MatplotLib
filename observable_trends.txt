@@ -1,0 +1,13 @@
+1. Urban has lower average fare and higher rides amount in general,
+   Suburban average fare and rides amount in the middle in general,
+   Rural has higher average fare and lower rides amount in general,
+   and the more rides, the lower average fare in general
+
+2. Urban cities have most drivers in general,
+   Suburban cities have middle amount of drivers in general,
+   Rural cities have least drivers in general,
+   So the more drivers, the more rides, the lower fare in general.
+
+3. However, average fare is not only decided by driver amount and ride amount in a city.
+
+4. Fares and Rides are correlated well for three type of cities: Urban, Suburban and Rural, drivers amounts seem not correlated so well with the other two. 
